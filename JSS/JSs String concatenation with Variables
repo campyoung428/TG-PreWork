@@ -1,0 +1,2 @@
+let favoriteAnimal = 'canine';
+console.log('My favorite animal' + favoriteAnimal +  '.');
