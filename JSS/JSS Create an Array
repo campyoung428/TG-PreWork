@@ -1,0 +1,2 @@
+const hobbies = ['Ballet', 'Catch', 'photography'];
+console.log(hobbies);
