@@ -1,0 +1,13 @@
+import {availableAirplanes,flightRequirements,meetsStaffRequirements} from './airplane';
+function displayStaffStatus () {
+  
+}
+function displayFuelCapacity() {
+  availableAirplanes.forEach(function(element) {
+    console.log('Fuel Capacity of ' + element['name'] + ': ' + element['fuelCapacity']);
+    function displayStaffStatus(){}
+  });
+}
+
+
+
